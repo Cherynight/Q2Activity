@@ -1,0 +1,23 @@
+/*this is an external css*/
+h1{
+	font-family: fantasy;
+	color: rebeccapurple ;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	text-shadow: 2px 3px #A74AFF;
+}
+p{
+	text-indent: 25px;
+}
+span{
+	text-decoration: underline;
+	font-variant: small-caps;
+}
+body {
+	background-color:beige ;
+}
+img{
+	border-style: solid;
+	border-color: purple;
+	float: right;
+}
