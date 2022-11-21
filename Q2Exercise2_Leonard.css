@@ -1,0 +1,15 @@
+img{
+	border-style: solid;
+	border-color: hotpink;
+	float: right;
+}
+p{
+	font-family: fantasy;
+	color: deeppink ;
+	text-align: center;
+}
+h1{
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	text-shadow: 2px 3px #A74AFF;
+}
